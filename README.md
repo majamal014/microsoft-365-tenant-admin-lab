@@ -1,9 +1,11 @@
 # Microsoft 365 Tenant Administration Lab
 
 ## Description
+This project showcases an organization's Microsoft 365 environment with Exchange Online, SharePoint, and Teams.
 
+Key features include Microsoft 365 license assignments, mailbox provisioning, mailbox delegation, mail flow rules, Microsoft 365 Groups, SharePoint settings configuration, Teams creation and access rules, and Teams policies.
 
-## M365 E5 License Assignments
+## Microsoft 365 E5 License Assignments
 <img width="1920" height="808" alt="m365 license assignments" src="https://github.com/user-attachments/assets/b5bd621d-8850-45c1-8c90-1005db464e1c" />
 
 ## Exchange Online and Outlook

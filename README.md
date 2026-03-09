@@ -1,5 +1,8 @@
 # Microsoft 365 Tenant Administration Lab
 
+## Description
+
+
 ## M365 E5 License Assignments
 <img width="1920" height="808" alt="m365 license assignments" src="https://github.com/user-attachments/assets/b5bd621d-8850-45c1-8c90-1005db464e1c" />
 
@@ -37,5 +40,34 @@
 
 
 ## Teams
+
+### Create teams for Marketing and Human Resources
+<img width="1920" height="916" alt="create team on teams" src="https://github.com/user-attachments/assets/3918e8e2-4d76-470d-8c66-23e78a5ff942" />
+<img width="1920" height="916" alt="create hr team on teams" src="https://github.com/user-attachments/assets/1c162ba5-62a0-4600-b304-14999a11a618" />
+
+### Verify that Sophie Rivers is an owner of the Human Resources team
+<img width="1920" height="594" alt="teams hr users" src="https://github.com/user-attachments/assets/ca131235-1cce-49a9-aa59-6f610efaa95c" />
+
+### Sophie Rivers can change moderation preferences for the General channel
+<img width="1920" height="647" alt="channel perms sr good perms" src="https://github.com/user-attachments/assets/d23e30aa-f7ee-4dab-82dd-923fe1a0ae15" />
+
+### Verify that Connor Sterling is a member of the Marketing team
+<img width="1920" height="593" alt="teams marketing users" src="https://github.com/user-attachments/assets/39ea01da-f99b-40be-84f7-811720376a79" />
+
+### Connor Sterling cannot change moderation preferences for the General channel
+<img width="1920" height="630" alt="channel perms cs" src="https://github.com/user-attachments/assets/5141e612-bc21-44f9-add2-db12bb4be725" />
+
+### Block the creation of private channels through a Teams policy
+<img width="1920" height="904" alt="creating policy block private channels" src="https://github.com/user-attachments/assets/d8c73627-6187-4503-9c6e-7c7643acc12b" />
+
+### The policy is successful
+<img width="1920" height="917" alt="test policy block private channel" src="https://github.com/user-attachments/assets/6c352b6d-d865-4c69-b718-a42f7ebec613" />
+
+
+
+
+
+
+
 
 

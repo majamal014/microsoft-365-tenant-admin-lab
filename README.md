@@ -37,6 +37,18 @@
 
 ## SharePoint
 
+### Change the setting in the SharePoint Admin Center to prevent users from creating sites
+<img width="1920" height="729" alt="block site creation" src="https://github.com/user-attachments/assets/8e59c324-2f67-413d-8499-9e6fb61a8d9f" />
+
+### Verify that users are unable to create new sites
+<img width="1920" height="298" alt="confirm block site creation" src="https://github.com/user-attachments/assets/9d35d903-0882-4e92-81fc-9900e6245a4c" />
+
+### Restrict external sharing settings in the SharePoint Admin Center
+<img width="1920" height="735" alt="restrict external sharing" src="https://github.com/user-attachments/assets/b68aad59-0a5c-4e2e-a956-9a0087beb790" />
+
+### Add Connor Sterling as an owner to the Marketing site
+<img width="1920" height="676" alt="add owner" src="https://github.com/user-attachments/assets/da332322-9dad-4387-bd5b-dd269136a0a0" />
+
 
 
 ## Teams
@@ -62,12 +74,3 @@
 
 ### The policy is successful
 <img width="1920" height="917" alt="test policy block private channel" src="https://github.com/user-attachments/assets/6c352b6d-d865-4c69-b718-a42f7ebec613" />
-
-
-
-
-
-
-
-
-
